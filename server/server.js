@@ -54,7 +54,7 @@ app.get('/', (req, res) => {
 
 //Testing db connection
 
-db.query('SELECT 1', (err, result) => {
+pool.query('SELECT 1', (err, result) => {
     if (err) {
         console.error('❌ DB connection failed:', err);
     } else {
